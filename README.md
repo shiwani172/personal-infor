@@ -1,1 +1,1 @@
-# personal-infor
+# personal-information
